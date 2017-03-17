@@ -1,0 +1,12 @@
+D:\MyVC\MyProjects\HeafFirst\TheQuest\TheQuest\bin\Debug\TheQuest.exe.config
+D:\MyVC\MyProjects\HeafFirst\TheQuest\TheQuest\bin\Debug\TheQuest.exe
+D:\MyVC\MyProjects\HeafFirst\TheQuest\TheQuest\bin\Debug\TheQuest.pdb
+D:\MyVC\MyProjects\HeafFirst\TheQuest\TheQuest\obj\Debug\TheQuest.csprojResolveAssemblyReference.cache
+D:\MyVC\MyProjects\HeafFirst\TheQuest\TheQuest\obj\Debug\TheQuest.Form1.resources
+D:\MyVC\MyProjects\HeafFirst\TheQuest\TheQuest\obj\Debug\TheQuest.Properties.Resources.resources
+D:\MyVC\MyProjects\HeafFirst\TheQuest\TheQuest\obj\Debug\TheQuest.csproj.GenerateResource.Cache
+D:\MyVC\MyProjects\HeafFirst\TheQuest\TheQuest\obj\Debug\TheQuest.exe
+D:\MyVC\MyProjects\HeafFirst\TheQuest\TheQuest\obj\Debug\TheQuest.pdb
+E:\MyVC\HeafFirst\TheQuest\TheQuest\bin\Debug\TheQuest.exe.config
+E:\MyVC\HeafFirst\TheQuest\TheQuest\obj\Debug\TheQuest.exe
+E:\MyVC\HeafFirst\TheQuest\TheQuest\obj\Debug\TheQuest.pdb
